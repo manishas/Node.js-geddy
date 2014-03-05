@@ -1,4 +1,4 @@
-# Geddy
+# Geddy!!
 #### A simple, structured web framework for Node
 
 [![Build Status](https://travis-ci.org/mde/geddy.png?branch=master)](https://travis-ci.org/mde/geddy)
